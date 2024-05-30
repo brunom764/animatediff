@@ -95,6 +95,8 @@ Prompt: Little Prince (with yellow hair and green clothes): Sitting on the edge 
 
 Prompt: Little Prince (with yellow hair and green clothes) in a place covered in mirrors
 
+![cena 3-4](https://github.com/brunom764/animatediff/assets/100159869/8ef81dbb-29b3-4440-8e18-9f0d49969be7)
+
 ### Cena 3.2
 
 Prompt: Little Prince (with yellow hair and green clothes): Visiting a dark and lifeless planet, where another man turns on and off lamps.
